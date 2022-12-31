@@ -1,0 +1,71 @@
+{
+  "rvv.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "icc.svg": {
+    "mime": "image/svg+xml"
+  },
+  "1.png": {
+    "mime": "image/png"
+  },
+  "2.png": {
+    "mime": "image/png"
+  },
+  "3.png": {
+    "mime": "image/png"
+  },
+  "4.png": {
+    "mime": "image/png"
+  },
+  "ar.svg": {
+    "mime": "image/svg+xml"
+  },
+  "l1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "l2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "l3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "i1.png": {
+    "mime": "image/png"
+  },
+  "i2.png": {
+    "mime": "image/png"
+  },
+  "i3.png": {
+    "mime": "image/png"
+  },
+  "wa.svg": {
+    "mime": "image/svg+xml"
+  },
+  "11.png": {
+    "mime": "image/png"
+  },
+  "00.png": {
+    "mime": "image/png"
+  },
+  "21.png": {
+    "mime": "image/png"
+  },
+  "22.png": {
+    "mime": "image/png"
+  },
+  "arr.svg": {
+    "mime": "image/svg+xml"
+  },
+  "roc.svg": {
+    "mime": "image/svg+xml"
+  },
+  "gg.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "dp.svg": {
+    "mime": "image/svg+xml"
+  },
+  "em.svg": {
+    "mime": "image/svg+xml"
+  }
+}
